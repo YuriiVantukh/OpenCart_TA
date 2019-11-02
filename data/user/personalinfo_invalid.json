@@ -1,0 +1,16 @@
+[
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": " ",
+    "last_name": " ",
+    "telephone": "12"
+  },
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "qwertyuiopASDFGHJKLzxcvbnmQWERtYu",
+    "last_name": "MNBVCXZlkjhgfdsaPOIUYTREWQmNbVcXz",
+    "telephone": "1234567890-1234567890-12345678901"
+  }
+]

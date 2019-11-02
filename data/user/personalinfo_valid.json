@@ -1,0 +1,44 @@
+[
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "F",
+    "last_name": "L",
+    "telephone": "123"
+  },
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "Fn",
+    "last_name": "Ln",
+    "telephone": "1234"
+  },
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "Serhii",
+    "last_name": "TestLastName",
+    "telephone": "12345"
+  },
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "FirstNameqwertyuiopasdfghjklzxc",
+    "last_name": "LastNameqwertyuiopasdfghjklzxcv",
+    "telephone": "1234567890123456789012345678901"
+  },
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "FirstNameqwertyuiopasdfghjklzxc",
+    "last_name": "LastNameqwertyuiopasdfghjklzxcv",
+    "telephone": "1234567890123456789012345678901"
+  },
+  {
+    "py/object": "models.personaldetails.PersonalDetails",
+    "email": "taqc296@gmail.com",
+    "first_name": "FirstNameqwertyuiopasdfghjklzxcz",
+    "last_name": "LastNameqwertyuiopasdfghjklzxcvz",
+    "telephone": "12345678901234567890123456789012"
+  }
+]

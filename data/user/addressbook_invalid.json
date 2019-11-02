@@ -1,0 +1,30 @@
+[
+  {
+    "py/object": "models.addressbook.AddressBook",
+    "address_1": "a1",
+    "address_2": null,
+    "address_id": null,
+    "city": "c",
+    "company": null,
+    "content": null,
+    "country": null,
+    "first_name": null,
+    "last_name": null,
+    "post_code": "p",
+    "region_state": null
+  },
+  {
+    "py/object": "models.addressbook.AddressBook",
+    "address_1": "edited_address1_with_129_symbols_________________________________________________________________________________________________",
+    "address_2": null,
+    "address_id": null,
+    "city": "edited_city_with_129_symbols_____________________________________________________________________________________________________",
+    "company": null,
+    "content": null,
+    "country": null,
+    "first_name": "firstname_with_thirty_three_chars_",
+    "last_name": "lastname_with_thirty_three_chars_",
+    "post_code": "postcode_11",
+    "region_state": null
+  }
+]
