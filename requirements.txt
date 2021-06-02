@@ -42,5 +42,5 @@ sphinx-rtd-theme==0.3.0
 sphinxcontrib-websupport==1.0.1
 SQLAlchemy==1.2.5
 text-unidecode==1.2
-urllib3==1.22
+urllib3==1.26.5
 wrapt==1.10.11
